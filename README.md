@@ -1,5 +1,13 @@
-# Leetcode-Solutions
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Solutions 🚀
+
+This repository contains my solutions to LeetCode problems, focusing on improving problem-solving skills, data structures, and algorithms.
+
+💡 Key Highlights:
+- Solved problems across multiple topics (Arrays, DP, Graphs, etc.)
+- Focus on optimized and clean code
+- Regular practice and consistency
+
+📈 Goal: Crack top tech interviews and become a strong problem solver.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
