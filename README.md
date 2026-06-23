@@ -26,6 +26,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 ## Matrix
 |  |
 | ------- |
