@@ -28,6 +28,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0141-linked-list-cycle](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1189-maximum-number-of-balloons](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Backtracking
 |  |
 | ------- |
@@ -86,6 +87,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -118,4 +120,8 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
