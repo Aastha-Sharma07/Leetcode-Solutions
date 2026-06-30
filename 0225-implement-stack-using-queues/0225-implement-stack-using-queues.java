@@ -1,31 +1,23 @@
-import java.util.*;
-
 class MyStack {
 
-    Queue<Integer> q;
-
+    Stack<Integer> st;
     public MyStack() {
-        q = new LinkedList<>();
+        st = new Stack<>();
     }
     
     public void push(int x) {
-        q.offer(x);
-        
-        // rotate previous elements
-        for(int i = 0; i < q.size() - 1; i++){
-            q.offer(q.poll());
-        }
+        st.push(x);
     }
     
     public int pop() {
-        return q.poll();
+        return st.pop();
     }
     
     public int top() {
-        return q.peek();
+        return st.peek();
     }
     
     public boolean empty() {
-        return q.isEmpty();
+        return st.isEmpty();
     }
 }
