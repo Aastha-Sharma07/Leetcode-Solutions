@@ -62,6 +62,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
