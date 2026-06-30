@@ -1,7 +1,8 @@
 class Solution {
     public double myPow(double x, int n) {
-        long N = n;  // handle overflow
-        
+        // return Math.pow(x,n); 100% Beat
+
+        long N = n;
         if(N < 0){
             x = 1 / x;
             N = -N;
@@ -21,4 +22,4 @@ class Solution {
             return x * half * half;
         }
     }
-}
+}     
