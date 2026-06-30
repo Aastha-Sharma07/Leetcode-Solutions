@@ -76,6 +76,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -142,5 +143,6 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0367-valid-perfect-square](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
