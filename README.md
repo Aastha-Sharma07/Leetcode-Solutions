@@ -18,6 +18,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0037-sudoku-solver](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0217-contains-duplicate](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -29,6 +30,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0141-linked-list-cycle](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -141,6 +143,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
