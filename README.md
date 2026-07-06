@@ -80,6 +80,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0206-reverse-linked-list](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+| [0707-design-linked-list](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Recursion
@@ -138,6 +139,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0225-implement-stack-using-queues](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+| [0707-design-linked-list](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
 | ------- |
