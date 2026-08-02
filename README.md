@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0217-contains-duplicate](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+| [0877-stone-game](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -118,6 +119,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0877-stone-game](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## String Matching
 |  |
 | ------- |
@@ -164,6 +166,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0050-powx-n](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0877-stone-game](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -172,4 +175,8 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
