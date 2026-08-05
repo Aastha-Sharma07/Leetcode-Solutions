@@ -204,4 +204,16 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
