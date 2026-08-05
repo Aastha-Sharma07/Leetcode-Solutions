@@ -108,6 +108,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0042-trapping-rain-water](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -212,6 +213,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0094-binary-tree-inorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [3310-remove-methods-from-project](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -228,10 +230,12 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0094-binary-tree-inorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
