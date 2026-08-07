@@ -52,6 +52,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0037-sudoku-solver](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -75,6 +76,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -123,6 +125,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -192,6 +195,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0877-stone-game](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |
@@ -254,4 +258,8 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
