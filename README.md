@@ -73,11 +73,13 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0876-middle-of-the-linked-list](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linked List
 |  |
@@ -127,6 +129,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
 |  |
@@ -142,6 +145,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0486-predict-the-winner](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String Matching
 |  |
 | ------- |
