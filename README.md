@@ -33,6 +33,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [1406-stone-game-iii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -135,6 +136,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -301,4 +303,12 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
