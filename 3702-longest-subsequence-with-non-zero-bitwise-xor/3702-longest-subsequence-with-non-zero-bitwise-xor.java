@@ -17,8 +17,8 @@ class Solution {
         }
         else if(hasNonZero){
             return n-1;
-        }else{
-            return 0;
         }
+        return 0;
+        
     }
 }
