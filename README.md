@@ -214,6 +214,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0069-sqrtx) |
