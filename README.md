@@ -34,6 +34,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [1406-stone-game-iii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1539-kth-missing-positive-number](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2029-stone-game-ix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
@@ -180,6 +181,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0367-valid-perfect-square](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1539-kth-missing-positive-number](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 ## Interactive
 |  |
 | ------- |
