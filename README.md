@@ -28,6 +28,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0622-design-circular-queue](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -248,6 +249,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 ## Divide and Conquer
