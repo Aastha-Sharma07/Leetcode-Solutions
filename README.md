@@ -41,6 +41,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [1539-kth-missing-positive-number](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -179,6 +180,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [1406-stone-game-iii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String Matching
 |  |
@@ -248,6 +250,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [1406-stone-game-iii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -261,6 +264,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0724-find-pivot-index](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -275,6 +279,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [1406-stone-game-iii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -283,6 +288,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0486-predict-the-winner](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -290,6 +296,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0486-predict-the-winner](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
