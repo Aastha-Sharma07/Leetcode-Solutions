@@ -19,6 +19,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0037-sudoku-solver](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -271,6 +272,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 ## Game Theory
@@ -330,6 +332,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0094-binary-tree-inorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -340,6 +343,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0094-binary-tree-inorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -399,4 +403,8 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
