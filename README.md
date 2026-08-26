@@ -16,6 +16,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | ------- |
 | [0001-two-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0051-n-queens) |
@@ -92,6 +93,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
