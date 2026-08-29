@@ -13,6 +13,9 @@ class Solution {
         int n = nums.length;
 
         k = k%n;
+        if(k==0 || k==n){
+            return;
+        }
         rev(nums,0,n-k-1);
         rev(nums,n-k,n-1);
         rev(nums,0,n-1);
