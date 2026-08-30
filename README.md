@@ -19,6 +19,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -97,6 +98,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -267,6 +269,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0002-add-two-numbers](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0189-rotate-array) |
