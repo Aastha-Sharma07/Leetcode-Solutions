@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0048-rotate-image](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -99,6 +100,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -430,6 +432,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
