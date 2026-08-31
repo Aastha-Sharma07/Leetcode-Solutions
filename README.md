@@ -30,6 +30,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0189-rotate-array](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -78,6 +79,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0205-isomorphic-strings](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -250,6 +252,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2029-stone-game-ix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -258,6 +261,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | ------- |
 | [0169-majority-element](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -450,4 +454,8 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
