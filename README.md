@@ -19,6 +19,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0015-3sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0048-rotate-image) |
@@ -237,6 +238,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
