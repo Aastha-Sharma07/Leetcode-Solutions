@@ -13,7 +13,7 @@ class Solution {
             if(nums[mid]==nums[mid+1]){
                 low = mid+2;
             }else{
-                high=mid-1;
+                high=mid;
             }
         }
         return nums[low];
