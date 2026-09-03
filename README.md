@@ -33,6 +33,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -245,6 +246,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0035-search-insert-position](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
