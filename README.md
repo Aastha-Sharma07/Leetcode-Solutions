@@ -73,6 +73,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -315,6 +316,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [3536-maximum-product-of-two-digits](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |
