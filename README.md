@@ -40,6 +40,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0217-contains-duplicate](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -126,6 +127,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0048-rotate-image](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
@@ -256,6 +258,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0074-search-a-2d-matrix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -357,6 +360,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Game Theory
 |  |
 | ------- |
