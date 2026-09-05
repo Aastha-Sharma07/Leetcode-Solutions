@@ -55,6 +55,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0977-squares-of-a-sorted-array](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1140-stone-game-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1406-stone-game-iii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -255,6 +256,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0540-single-element-in-a-sorted-array](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
