@@ -160,6 +160,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -222,6 +223,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0940-distinct-subsequences-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1903-largest-odd-number-in-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -345,6 +347,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [1510-stone-game-iv](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
+| [1903-largest-odd-number-in-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
