@@ -16,6 +16,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | ------- |
 | [0001-two-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -214,6 +215,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -525,4 +527,8 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
