@@ -207,6 +207,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
@@ -232,6 +233,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
@@ -267,6 +269,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
