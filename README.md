@@ -74,6 +74,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2029-stone-game-ix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
@@ -123,6 +124,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -262,6 +264,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
