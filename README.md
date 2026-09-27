@@ -242,6 +242,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [1019-next-greater-node-in-linked-list](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String
 |  |
@@ -261,6 +262,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [1021-remove-outermost-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -609,6 +611,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
