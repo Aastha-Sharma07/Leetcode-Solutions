@@ -36,6 +36,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0137-single-number-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -579,6 +580,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
