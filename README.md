@@ -402,6 +402,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0007-reverse-integer](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0069-sqrtx) |
@@ -580,6 +581,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
