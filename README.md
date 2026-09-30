@@ -139,6 +139,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
@@ -257,6 +258,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0013-roman-to-integer](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -296,6 +298,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -625,6 +628,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
