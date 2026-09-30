@@ -3,20 +3,18 @@ class Solution {
         List<List<Integer>> ans = new ArrayList<>();
         List<Integer> current = new ArrayList<>();
 
-        solve(0,nums,new ArrayList<>(),ans);
+        solve(0,nums,current,ans);
         return ans;
     }
-    private void solve(int index, int[] nums, List<Integer> current, List<List<Integer>> ans){
-        if(index == nums.length){
+    private void solve(int idx, int[]nums,List<Integer> current, List<List<Integer>> ans){
+        if(idx == nums.length){
             ans.add(new ArrayList<>(current));
             return;
         }
-        // Take
-        current.add(nums[index]);
-        solve(index+1,nums,current,ans);
-
+        current.add(nums[idx]);
+        solve(idx+1,nums,current,ans);
         current.remove(current.size()-1);
 
-        solve(index+1,nums,current,ans);
+        solve(idx + 1, nums, current, ans);
     }
 }
