@@ -36,6 +36,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -148,6 +149,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0051-n-queens](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [1096-brace-expansion-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
@@ -596,6 +598,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
