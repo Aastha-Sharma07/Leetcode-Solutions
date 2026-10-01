@@ -32,6 +32,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0053-maximum-subarray](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
