@@ -207,6 +207,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -266,6 +267,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0232-implement-queue-using-stacks](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -286,6 +288,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0205-isomorphic-strings](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -330,6 +333,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0435-non-overlapping-intervals](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
@@ -661,6 +665,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
