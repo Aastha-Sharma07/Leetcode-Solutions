@@ -117,6 +117,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -278,6 +279,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
@@ -606,6 +608,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
