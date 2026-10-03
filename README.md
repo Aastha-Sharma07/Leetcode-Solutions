@@ -261,6 +261,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
@@ -287,6 +288,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0020-valid-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -327,6 +329,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0055-jump-game) |
@@ -675,6 +678,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
