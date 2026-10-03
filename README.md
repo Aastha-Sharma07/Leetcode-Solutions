@@ -131,6 +131,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0219-contains-duplicate-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -296,6 +297,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0151-reverse-words-in-a-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0796-rotate-string) |
@@ -621,6 +623,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
