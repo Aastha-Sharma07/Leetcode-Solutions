@@ -138,6 +138,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [1096-brace-expansion-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -304,6 +305,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -621,6 +623,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0219-contains-duplicate-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
