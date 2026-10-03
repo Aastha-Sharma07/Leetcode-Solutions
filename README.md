@@ -69,6 +69,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0860-lemonade-change](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [0930-binary-subarrays-with-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -133,6 +134,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0451-sort-characters-by-frequency](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1096-brace-expansion-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -487,6 +489,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -616,6 +619,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
