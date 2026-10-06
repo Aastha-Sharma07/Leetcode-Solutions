@@ -562,6 +562,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0112-path-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -573,6 +574,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [1096-brace-expansion-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -594,6 +596,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0112-path-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -609,6 +612,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0112-path-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
 |  |
