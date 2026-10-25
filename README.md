@@ -76,6 +76,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [1019-next-greater-node-in-linked-list](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1140-stone-game-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1406-stone-game-iii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
@@ -192,6 +193,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0074-search-a-2d-matrix](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -593,6 +595,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0144-binary-tree-preorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [1254-number-of-closed-islands](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -606,6 +609,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [0112-path-sum](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [1096-brace-expansion-ii](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -743,6 +747,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Boyer–Moore Majority Vote Algorithm
