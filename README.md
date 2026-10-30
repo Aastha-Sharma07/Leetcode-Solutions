@@ -355,6 +355,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -623,6 +624,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Tree
 |  |
 | ------- |
@@ -672,6 +674,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Number Theory
 |  |
 | ------- |
@@ -808,4 +811,8 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aastha-Sharma07/Leetcode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
